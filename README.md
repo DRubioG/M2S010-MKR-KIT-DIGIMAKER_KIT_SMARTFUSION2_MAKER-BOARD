@@ -1,2 +1,4 @@
 # M2S010-MKR-KIT-DIGIMAKER_KIT_SMARTFUSION2_MAKER-BOARD
  M2S010-MKR-KIT Schematic
+
+This is the Schematic of the Digikey Maker Kit: M2S010-MKR-KIT
